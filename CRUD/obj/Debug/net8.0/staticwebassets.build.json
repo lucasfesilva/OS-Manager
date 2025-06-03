@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/hPKKZC5Kl8AautuaC+96YhVNNOtb5tRFeZxcPID++8=",
+  "Hash": "vXn+TA1L/AitV7ouLJVhBbtwR07FKkoz+BgEOk7OGdE=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUD\\wwwroot",
       "Source": "CRUD",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\cadastro.html",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\cadastro.html",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "cadastro#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\cadastro.html"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\home.html",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\home.html",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\home.html"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\images\\logo.png",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\index.html",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\index.html",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\auth.js",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\auth.js",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "js/auth#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\auth.js"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\ordens.js",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\ordens.js",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "js/ordens#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ordens.js"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\register.js",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\register.js",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "js/register#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\js\\register.js"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\login.html",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\login.html",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "login#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\style\\style.css",
+      "Identity": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\style\\style.css",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "style/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -209,7 +209,7 @@
   "Endpoints": [
     {
       "Route": "cadastro.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\cadastro.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\cadastro.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -246,7 +246,7 @@
     },
     {
       "Route": "cadastro.lqcoh5e3k9.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\cadastro.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\cadastro.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -291,7 +291,7 @@
     },
     {
       "Route": "home.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\home.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -328,7 +328,7 @@
     },
     {
       "Route": "home.s0p26hdh9q.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\home.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -373,7 +373,7 @@
     },
     {
       "Route": "images/logo.5lxduj59sw.png",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\images\\logo.png",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -418,7 +418,7 @@
     },
     {
       "Route": "images/logo.png",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\images\\logo.png",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -455,7 +455,7 @@
     },
     {
       "Route": "index.8u855s6ysw.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\index.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -500,7 +500,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\index.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -537,7 +537,7 @@
     },
     {
       "Route": "js/auth.73g0ik2rcn.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\auth.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -582,7 +582,7 @@
     },
     {
       "Route": "js/auth.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\auth.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -619,7 +619,7 @@
     },
     {
       "Route": "js/ordens.dwd5nlgo4e.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\ordens.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\ordens.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +664,7 @@
     },
     {
       "Route": "js/ordens.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\ordens.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\ordens.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -701,7 +701,7 @@
     },
     {
       "Route": "js/register.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\register.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\register.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -738,7 +738,7 @@
     },
     {
       "Route": "js/register.kqqixgauea.js",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\register.js",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\register.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +783,7 @@
     },
     {
       "Route": "login.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\login.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -820,7 +820,7 @@
     },
     {
       "Route": "login.w3fk57vrt7.html",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\login.html",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\login.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -865,7 +865,7 @@
     },
     {
       "Route": "style/style.aczbt6fusp.css",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\style\\style.css",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\style\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -910,7 +910,7 @@
     },
     {
       "Route": "style/style.css",
-      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\style\\style.css",
+      "AssetFile": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\style\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

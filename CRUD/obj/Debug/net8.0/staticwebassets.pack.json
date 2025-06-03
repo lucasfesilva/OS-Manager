@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\cadastro.html",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\cadastro.html",
       "PackagePath": "staticwebassets\\cadastro.html"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\home.html",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\home.html",
       "PackagePath": "staticwebassets\\home.html"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\images\\logo.png",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\index.html",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\auth.js",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\auth.js",
       "PackagePath": "staticwebassets\\js\\auth.js"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\ordens.js",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\ordens.js",
       "PackagePath": "staticwebassets\\js\\ordens.js"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\register.js",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\js\\register.js",
       "PackagePath": "staticwebassets\\js\\register.js"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\login.html",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\style\\style.css",
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\wwwroot\\style\\style.css",
       "PackagePath": "staticwebassets\\style\\style.css"
     },
     {

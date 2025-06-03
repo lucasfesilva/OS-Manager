@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fj+RUzJL4xs=",
+  "dgSpecHash": "QoYj1yaBy88=",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\CRUD.csproj",
+  "projectFilePath": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas Felipe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lucas Felipe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -5058,11 +5058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\CRUD.csproj",
+      "projectPath": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\CRUD.csproj",
       "packagesPath": "C:\\Users\\Lucas Felipe\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\obj\\",
+      "outputPath": "D:\\Arquivos Locais\\Documentos\\CRUD\\OS-Manager\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
