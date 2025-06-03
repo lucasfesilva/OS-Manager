@@ -48,6 +48,7 @@ O projeto adota o Repository Pattern para desacoplar a lógica de acesso a dados
 Vantagens:
 - Permite uma abstração clara entre o Controller e a camada de Persistência
 - Utiliza a injeção de dependência, tornando o código mais flexível
+
 Interfaces:
 IOrderService define os contratos que são implementados por OrderService.
 
