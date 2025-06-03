@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta\**" />
+    <Compile Remove="Repository\NovaPasta\**" />
+    <Content Remove="NovaPasta1\**" />
+    <Content Remove="NovaPasta\**" />
+    <Content Remove="Repository\NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="Repository\NovaPasta\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta\**" />
+    <None Remove="Repository\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20250602174437_init.cs" />
+    <Compile Remove="Migrations\20250602174437_init.Designer.cs" />
+    <Compile Remove="Migrations\20250602221502_authMigration.cs" />
+    <Compile Remove="Migrations\20250602221502_authMigration.Designer.cs" />
+    <Compile Remove="Migrations\20250603124657_authorizationMigration.cs" />
+    <Compile Remove="Migrations\20250603124657_authorizationMigration.Designer.cs" />
+    <Compile Remove="Migrations\20250603130402_datetime.cs" />
+    <Compile Remove="Migrations\20250603130402_datetime.Designer.cs" />
+    <Compile Remove="WeatherForecast.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+</Project>

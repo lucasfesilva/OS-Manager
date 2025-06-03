@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\cadastro.html",
+      "PackagePath": "staticwebassets\\cadastro.html"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\auth.js",
+      "PackagePath": "staticwebassets\\js\\auth.js"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\ordens.js",
+      "PackagePath": "staticwebassets\\js\\ordens.js"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\Arquivos Locais\\Documentos\\CRUD\\CRUD\\wwwroot\\style\\style.css",
+      "PackagePath": "staticwebassets\\style\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUD.props",
+      "PackagePath": "build\\CRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD.props",
+      "PackagePath": "buildMultiTargeting\\CRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUD.props",
+      "PackagePath": "buildTransitive\\CRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

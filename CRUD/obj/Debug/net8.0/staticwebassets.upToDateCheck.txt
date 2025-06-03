@@ -1,0 +1,9 @@
+wwwroot\cadastro.html
+wwwroot\home.html
+wwwroot\images\logo.png
+wwwroot\index.html
+wwwroot\js\auth.js
+wwwroot\js\ordens.js
+wwwroot\js\register.js
+wwwroot\login.html
+wwwroot\style\style.css
